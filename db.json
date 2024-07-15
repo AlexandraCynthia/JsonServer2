@@ -1,34 +1,76 @@
 {
-  "products": [
+  "videos": [
     {
       "id": "1",
-      "name": "Candy White",
-      "price": "20",
-      "image": "https://images.cdn1.buscalibre.com/fit-in/180x180/3b/15/3b1545b2bfc9497410d14b339eaec03a.jpg"
+      "titulo": "¿Qué es Javascript?",
+      "categoria": "FrontEnd",
+      "imagen": "https://res.cloudinary.com/dgxnatqij/image/upload/v1719283305/front2_lrtkjv.png",
+      "video": "https://youtu.be/GJfOSoaXk4s?si=GlIkTmS0khKntzal",
+      "descripcion": "JavaScript: ¿qué es y cómo se hizo este lenguaje que genera muchas discusiones y debates entre la gente del área de desarrollo? Genesys y Gabriela nos hablan exactamente de esto en este Alura Tips."
     },
     {
       "id": "2",
-      "name": "Sailor Moon",
-      "price": "45",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuxohRukwPqb8Q51Y_SxkvVeSpnyxizY5yMw&s"
+      "titulo": "Equipo Front End",
+      "categoria": "FrontEnd",
+      "imagen": "https://res.cloudinary.com/dgxnatqij/image/upload/v1719464770/f3_aicbmn.png",
+      "video": "https://youtu.be/rpvrLaBQwgg?si=tXuAjPVyJeOVT2rm",
+      "descripcion": "¿Estás empezando tus estudios de Programación? ¿Te interesa todo lo que es la creación de Páginas Web Desarrollo de Softwares? ¿O estás pensando en cambiar de carrera y entrar a la maravillosa area de tecnología?"
     },
     {
       "id": "3",
-      "name": "Dragon Ball",
-      "price": "145",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiifHXrXV8knu9LTBnDpVcFDpTrl1zXCL4RA&s"
+      "titulo": "Cuándo usar Let, Var y const?",
+      "categoria": "FrontEnd",
+      "imagen": "https://res.cloudinary.com/dgxnatqij/image/upload/v1719464770/f2_apcxpc.png",
+      "video": "https://youtu.be/PztCEdIJITY?si=shF-Qi4y4l9PuO3r",
+      "descripcion": "¿A veces cuando estás programando sientes dificuldades en saber en qué momento utilizar let, var o const para declarar una variable? En este video te sacamos estas dudas, además de explicarte lo que es escopo global y local en JavaScript."
     },
     {
       "id": "4",
-      "name": "Muñeco Aries",
-      "price": "120",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf-C_X_4YUSq4BGgwbczToflBi6N3tGSZxmQ&s"
+      "titulo": "Back End",
+      "categoria": "BackEnd",
+      "imagen": "https://res.cloudinary.com/dgxnatqij/image/upload/v1720840164/back3_ue3b1g.png",
+      "video": "https://youtu.be/XuSXJ9DUcvY?si=PRl18Xv-o8PzI88Q",
+      "descripcion": "¿Quieres conocer y entender mejor qué es el Back End? En este video Bismarck Berrios nos explica qué es el back end de una manera sencilla."
     },
     {
       "id": "5",
-      "name": "Muñeca Atena",
-      "price": "42",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgfv82IuagZ-QNXUxoUsWsFjLS2KFxbZawgA&s"
+      "titulo": "Introducción al Back End",
+      "categoria": "BackEnd",
+      "imagen": "https://res.cloudinary.com/dgxnatqij/image/upload/v1720840164/back2_aac13c.png",
+      "video": "https://youtu.be/Z024LSCMqFk?si=bYWE2WqX5UYZcwrT",
+      "descripcion": "¿Quieres saber más?"
+    },
+    {
+      "id": "6",
+      "titulo": "Spring Framework",
+      "categoria": "BackEnd",
+      "imagen": "https://res.cloudinary.com/dgxnatqij/image/upload/v1719463623/img5_pp9uv5.png",
+      "video": "https://youtu.be/t-iqt1b2qqk?si=8kGGwUo76OdZ0FA3",
+      "descripcion": "¿Busca un framework  para utilizar en sus proyectos? ¿Conoce Spring Framework? Spring es el framework más usado de Java."
+    },
+    {
+      "id": "7",
+      "titulo": "Qué son las Softskills?",
+      "categoria": "Innovacion",
+      "imagen": "https://res.cloudinary.com/dgxnatqij/image/upload/v1719463622/img4_etzwwp.png",
+      "video": "https://youtu.be/vhwspfvI52k?si=-bHk8s0sp4UOj_up",
+      "descripcion": "¿Qué son las Softskills y por qué es tan importante desarrollarlas para posicionarse en el mercado laboral? "
+    },
+    {
+      "id": "8",
+      "titulo": "Fundamentos de Storytelling",
+      "categoria": "Innovacion",
+      "imagen": "https://res.cloudinary.com/dgxnatqij/image/upload/v1720840221/innovacion2_wcz1l2.png",
+      "video": "https://youtu.be/JTc07kNQtZ4?si=N1yqoroX8S7fJdL_",
+      "descripcion": "Contar buenas historias puede ser la clave del éxito para dar a conocer tu negocio o para tu desempeño como profesional. Conoce más sobre esta estrategia que nos ha acompañado desde los comienzos de la civilización ."
+    },
+    {
+      "id": "9",
+      "titulo": "Trabajo Remoto",
+      "categoria": "Innovacion",
+      "imagen": "https://res.cloudinary.com/dgxnatqij/image/upload/v1720840217/innovacion1_qink00.png",
+      "video": "https://youtu.be/kIvnVfnmDyE?si=X5m370xK2h4LItju",
+      "descripcion": "En el video de hoy vamos a ver cuáles son los desafíos y las soluciones que las empresas y los colaboradores enfrentan con el trabajo remoto."
     }
   ]
 }
